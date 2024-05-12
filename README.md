@@ -3,9 +3,9 @@
 
 This is the official implementation of **HyperAgent** algorithm, introduced in our **ICML** 2024 paper [HyperAgent: A Simple, Scalable, Efficient and Provable Reinforcement Learning Framework for Complex Environments](https://arxiv.org/abs/2402.10228).
 
-<img src="figures/2023112801_param_step_2.png" alt="Alt text" style="width: 40%;">
+<img src="figures/2023112801_param_step_2.png" alt="Alt text" style="width: 70%;">
 
-- ✅ **Data efficient**: **HyperAgent** uses only **15% data consumption** of Double-DQN (DDQN, 2016 STOA, **DeepMind**) to reach Human-Level Performance (1 IQM). (That is 1.5M interactions.)
+- ✅ **Data efficient**: **HyperAgent** uses only **15% data consumption** of Double-DQN (DDQN, 2016 STOA, **DeepMind**) to reach Human-Level Performance (1 IQM). (1.5M interactions.)
 - ✅ **Computation efficient**: **HyperAgent** uses only **5% model parameters** of 2023 STOA algorithm ([BBF](https://paperswithcode.com/paper/bigger-better-faster-human-level-atari-with), **DeepMind**).
 - Ensemble+ achieves a mere 0.22 IQM score under 1.5M interactions but necessitates double the parameters of HyperAgent.
 
