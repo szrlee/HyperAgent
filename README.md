@@ -1,6 +1,7 @@
-# HyperAgent
+# HyperAgent [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszrlee%2FHyperAgent&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-This is the official implementation of *HyperAgent* algorithm, introduced in our **ICML** 2024 paper [HyperAgent: A Simple, Scalable, Efficient and Provable Reinforcement Learning Framework for Complex Environments](https://arxiv.org/abs/2402.10228).
+
+This is the official implementation of **HyperAgent** algorithm, introduced in our **ICML** 2024 paper [HyperAgent: A Simple, Scalable, Efficient and Provable Reinforcement Learning Framework for Complex Environments](https://arxiv.org/abs/2402.10228).
 
 <img src="figures/2023112801_param_step_2.png" alt="Alt text" style="width: 40%;">
 
