@@ -130,6 +130,5 @@ dmypy.json
 
 # other
 result*
-figure*
 log.*
 tmp*
