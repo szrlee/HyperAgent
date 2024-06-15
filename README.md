@@ -3,7 +3,7 @@
 
 This is the official implementation of **HyperAgent** algorithm, introduced in our **ICML** 2024 paper [Q-Star Meets Scalable Posterior Sampling: Bridging Theory and Practice via HyperAgent](https://arxiv.org/abs/2402.10228).
 
-<img src="figures/2023112801_param_step_2.png" alt="Alt text" style="width: 70%;">
+<img src="figures/2023112801_param_step_4.png" alt="Alt text" style="width: 75%;">
 
 - ✅ **Data efficient**: **HyperAgent** uses only **15% data consumption** of Double-DQN (DDQN, 2016 STOA, **DeepMind**) to reach Human-Level Performance (1 IQM). (1.5M interactions.)
 - ✅ **Computation efficient**: **HyperAgent** uses only **5% model parameters** of 2023 STOA algorithm ([BBF](https://paperswithcode.com/paper/bigger-better-faster-human-level-atari-with), **DeepMind**).
