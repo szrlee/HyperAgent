@@ -34,14 +34,14 @@ If you find this work useful to your research, please cite our paper.
 
 ```bibtex
 @inproceedings{li2024hyperagent,
-  title         = {{HyperAgent: A Simple, Scalable, Efficient and Provable Reinforcement Learning Framework for Complex Environments}},
+  title         = {{Q-Star Meets Scalable Posterior Sampling: Bridging Theory and Practice via HyperAgent}},
   author        = {Li, Yingru and Xu, Jiawei and Han, Lei and Luo, Zhi-Quan},
   booktitle     = {Forty-first International Conference on Machine Learning},
   year          = {2024},
   series        = {Proceedings of Machine Learning Research},
   eprint        = {2402.10228},
   archiveprefix = {arXiv},
-  primaryclass  = {cs.LG},
+  primaryclass  = {cs.LG}，
   url           = {https://arxiv.org/abs/2402.10228}
 }
 ```
