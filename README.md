@@ -4,7 +4,7 @@ Author: [Yingru Li](https://github.com/szrlee), [Jiawei Xu](https://github.com/j
 
 This is the official implementation of **HyperAgent** algorithm, introduced in our **ICML** 2024 paper [Q-Star Meets Scalable Posterior Sampling: Bridging Theory and Practice via HyperAgent](https://arxiv.org/abs/2402.10228).
 
-For the integration of GPT (Generative Pre-trained Transformer), refer to the repo [GPT-HyperAgent](https://github.com/szrlee/GPT-HyperAgent).
+For the integration of Generative Pre-trained Transformer (GPT), refer to the repo [szrlee/GPT-HyperAgent](https://github.com/szrlee/GPT-HyperAgent) designed for adaptive foundation models for online decisions.
 
 <img src="figures/2023112801_param_step_4.png" alt="Alt text" style="width: 75%;">
 
