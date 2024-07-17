@@ -1,7 +1,10 @@
 # HyperAgent [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fszrlee%2FHyperAgent&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+Author: [Yingru Li](https://github.com/szrlee), [Jiawei Xu](https://github.com/jiawei415)
 
 This is the official implementation of **HyperAgent** algorithm, introduced in our **ICML** 2024 paper [Q-Star Meets Scalable Posterior Sampling: Bridging Theory and Practice via HyperAgent](https://arxiv.org/abs/2402.10228).
+
+For the integration of GPT (Generative Pre-trained Transformer), refer to the repo [GPT-HyperAgent](https://github.com/szrlee/GPT-HyperAgent).
 
 <img src="figures/2023112801_param_step_4.png" alt="Alt text" style="width: 75%;">
 
