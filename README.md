@@ -22,6 +22,21 @@ cd HyperAgent
 pip install -e .
 ```
 
+If you encounter an error related to ROMs when using Atari, follow these steps:
+
+1. Download `Roms.rar` from the [Atari 2600 VCS ROM Collection](http://www.atarimania.com/rom_collection_archive_atari_2600_roms.html).
+2. Extract the `.rar` file to a directory of your choice.
+3. Run the following command:
+
+   ```sh
+   python -m atari_py.import_roms <path to extracted folder>
+   ```
+
+This command will import the ROMs and print their names as they are processed. The ROMs will be copied to your `atari_py` installation directory.
+
+For detailed instructions on using ROMs, please refer to the [official documentation](https://github.com/openai/atari-py#roms).
+
+
 ## Usage
 
 To reproduce the results for Atari (e.g., Pong):
